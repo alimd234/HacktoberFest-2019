@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="card">
+        <div class="img-cont">
+          <img
+            class="img"
+            src="https://images.unsplash.com/photo-1594398028856-f253a046f417?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80"
+            alt="Food image"
+          />
+        </div>
+        <div class="user-info">
+          <div class="user-avatar-cont">
+            <img
+              src="https://i.ibb.co/JzNYHV9/image-1.jpg"
+              alt="User Image"
+              class="user-avatar-img"
+            />
+          </div>
+          <div class="user-details">
+            <div class="user-name"><span>Natalia Rodrigues</span></div>
+            <div class="user-profession"><span>Food Blogger</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
